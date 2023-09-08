@@ -1,0 +1,1003 @@
+{
+  "meta": {
+    "version": "v1.0",
+    "split": "-",
+    "image_id": 0,
+    "image_size": {
+      "width": 2481,
+      "height": 3508
+    }
+  },
+  "words": [
+    {
+      "rect": {
+        "x1": 214,
+        "y1": 149,
+        "x2": 649,
+        "y2": 230
+      },
+      "value": "BRAVADO",
+      "label": "header:logo"
+    },
+    {
+      "rect": {
+        "x1": 716,
+        "y1": 130,
+        "x2": 1431,
+        "y2": 170
+      },
+      "value": "BRAVADO INTERNATIONAL GROUP LIMITED",
+      "label": "header:company_name"
+    },
+    {
+      "rect": {
+        "x1": 708,
+        "y1": 179,
+        "x2": 1197,
+        "y2": 369
+      },
+      "value": "4 Pancras Square London, N1C 4AG Tel: +44 (0).203 932 6476 Fax: Email: APhnvoie@bravadocom",
+      "label": "header:company_address"
+    },
+    {
+      "rect": {
+        "x1": 1818,
+        "y1": 207,
+        "x2": 1982,
+        "y2": 260
+      },
+      "value": "Order",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1813,
+        "y1": 287,
+        "x2": 1897,
+        "y2": 337
+      },
+      "value": "Page",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1895,
+        "y1": 287,
+        "x2": 1918,
+        "y2": 332
+      },
+      "value": "1",
+      "label": "header:page_number"
+    },
+    {
+      "rect": {
+        "x1": 259,
+        "y1": 463,
+        "x2": 411,
+        "y2": 504
+      },
+      "value": "Supplier:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 260,
+        "y1": 514,
+        "x2": 841,
+        "y2": 791
+      },
+      "value": "SOURCING 110-112 PARKWAY CAMDEN , NW1 7AN LONDON Great Britain",
+      "label": "header:supplier_address"
+    },
+    {
+      "rect": {
+        "x1": 230,
+        "y1": 978,
+        "x2": 366,
+        "y2": 1013
+      },
+      "value": "Product",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 362,
+        "y1": 972,
+        "x2": 449,
+        "y2": 1013
+      },
+      "value": "Code",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 943,
+        "y1": 463,
+        "x2": 1070,
+        "y2": 504
+      },
+      "value": "Deliver",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1064,
+        "y1": 463,
+        "x2": 1129,
+        "y2": 504
+      },
+      "value": "To:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 940,
+        "y1": 523,
+        "x2": 1529,
+        "y2": 788
+      },
+      "value": "PRIMARK LIMITED [GERMANYI TBRA22 (FOB ROW) PATRICIA TALLANT 47 MARY STREET DUBLIN 1 Ireland",
+      "label": "header:receiver_address"
+    },
+    {
+      "rect": {
+        "x1": 1619,
+        "y1": 463,
+        "x2": 1750,
+        "y2": 503
+      },
+      "value": "P.Order",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1750,
+        "y1": 463,
+        "x2": 1810,
+        "y2": 503
+      },
+      "value": "No.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1623,
+        "y1": 509,
+        "x2": 1710,
+        "y2": 553
+      },
+      "value": "Date",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1623,
+        "y1": 559,
+        "x2": 1746,
+        "y2": 599
+      },
+      "value": "Vendor",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1743,
+        "y1": 559,
+        "x2": 1810,
+        "y2": 599
+      },
+      "value": "No.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1626,
+        "y1": 613,
+        "x2": 1721,
+        "y2": 658
+      },
+      "value": "Buyer",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1623,
+        "y1": 660,
+        "x2": 1771,
+        "y2": 701
+      },
+      "value": "Currency",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2099,
+        "y1": 449,
+        "x2": 2317,
+        "y2": 503
+      },
+      "value": "PO712057678",
+      "label": "header:po_number"
+    },
+    {
+      "rect": {
+        "x1": 2055,
+        "y1": 509,
+        "x2": 2312,
+        "y2": 554
+      },
+      "value": "February 3, 2022",
+      "label": "header:order_date"
+    },
+    {
+      "rect": {
+        "x1": 2180,
+        "y1": 559,
+        "x2": 2314,
+        "y2": 599
+      },
+      "value": "ECHO01",
+      "label": "header:vendor_number"
+    },
+    {
+      "rect": {
+        "x1": 2144,
+        "y1": 609,
+        "x2": 2314,
+        "y2": 651
+      },
+      "value": "JHAsi",
+      "label": "header:buyer"
+    },
+    {
+      "rect": {
+        "x1": 524,
+        "y1": 953,
+        "x2": 644,
+        "y2": 995
+      },
+      "value": "Variant",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 519,
+        "y1": 992,
+        "x2": 616,
+        "y2": 1040
+      },
+      "value": "Code",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 726,
+        "y1": 978,
+        "x2": 863,
+        "y2": 1013
+      },
+      "value": "Comdty.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 930,
+        "y1": 978,
+        "x2": 1115,
+        "y2": 1013
+      },
+      "value": "Description",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1448,
+        "y1": 978,
+        "x2": 1596,
+        "y2": 1013
+      },
+      "value": "Quantity",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1626,
+        "y1": 972,
+        "x2": 1710,
+        "y2": 1013
+      },
+      "value": "Unit",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1701,
+        "y1": 972,
+        "x2": 1785,
+        "y2": 1013
+      },
+      "value": "Cost",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1842,
+        "y1": 972,
+        "x2": 1908,
+        "y2": 1013
+      },
+      "value": "Bar",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1907,
+        "y1": 972,
+        "x2": 1993,
+        "y2": 1013
+      },
+      "value": "Code",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2109,
+        "y1": 1044,
+        "x2": 2314,
+        "y2": 1099
+      },
+      "value": "715.4",
+      "label": "items_row1:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2175,
+        "y1": 978,
+        "x2": 2311,
+        "y2": 1013
+      },
+      "value": "Amo",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2104,
+        "y1": 1221,
+        "x2": 2312,
+        "y2": 1272
+      },
+      "value": "1,430.80",
+      "label": "items_row2:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2105,
+        "y1": 1396,
+        "x2": 2312,
+        "y2": 1443
+      },
+      "value": "3,219.30",
+      "label": "items_row3:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2110,
+        "y1": 1576,
+        "x2": 2314,
+        "y2": 1620
+      },
+      "value": "2,435.30",
+      "label": "items_row4:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2110,
+        "y1": 1751,
+        "x2": 2317,
+        "y2": 1800
+      },
+      "value": "",
+      "label": "items_row5:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2104,
+        "y1": 1922,
+        "x2": 2312,
+        "y2": 1974
+      },
+      "value": "695.80",
+      "label": "items_row6:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2105,
+        "y1": 2095,
+        "x2": 2312,
+        "y2": 2152
+      },
+      "value": "347.90",
+      "label": "items_row7:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 215,
+        "y1": 1050,
+        "x2": 493,
+        "y2": 1089
+      },
+      "value": "3127610100030",
+      "label": "items_row1:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 513,
+        "y1": 1050,
+        "x2": 705,
+        "y2": 1089
+      },
+      "value": "CHAR-XS",
+      "label": "items_row1:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 716,
+        "y1": 1050,
+        "x2": 908,
+        "y2": 1089
+      },
+      "value": "6103430000",
+      "label": "items_row1:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 917,
+        "y1": 1050,
+        "x2": 1406,
+        "y2": 1172
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row1:item_description"
+    },
+    {
+      "rect": {
+        "x1": 214,
+        "y1": 1207,
+        "x2": 483,
+        "y2": 1269
+      },
+      "value": "3127610100030",
+      "label": "items_row2:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 509,
+        "y1": 1222,
+        "x2": 705,
+        "y2": 1267
+      },
+      "value": "CHAR-S",
+      "label": "items_row2:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 710,
+        "y1": 1221,
+        "x2": 912,
+        "y2": 1269
+      },
+      "value": "6103430000",
+      "label": "items_row2:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 918,
+        "y1": 1222,
+        "x2": 1411,
+        "y2": 1356
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row2:item_description"
+    },
+    {
+      "rect": {
+        "x1": 214,
+        "y1": 1391,
+        "x2": 481,
+        "y2": 1443
+      },
+      "value": "3127610100030",
+      "label": "items_row3:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 508,
+        "y1": 1398,
+        "x2": 700,
+        "y2": 1443
+      },
+      "value": "CHAR-M",
+      "label": "items_row3:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 716,
+        "y1": 1403,
+        "x2": 908,
+        "y2": 1439
+      },
+      "value": "6103430000",
+      "label": "items_row3:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 917,
+        "y1": 1391,
+        "x2": 1411,
+        "y2": 1524
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row3:item_description"
+    },
+    {
+      "rect": {
+        "x1": 214,
+        "y1": 1566,
+        "x2": 493,
+        "y2": 1620
+      },
+      "value": "3127610100030",
+      "label": "items_row4:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 509,
+        "y1": 1580,
+        "x2": 706,
+        "y2": 1621
+      },
+      "value": "CHAR-L",
+      "label": "items_row4:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 710,
+        "y1": 1576,
+        "x2": 912,
+        "y2": 1621
+      },
+      "value": "6103430000",
+      "label": "items_row4:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 918,
+        "y1": 1571,
+        "x2": 1411,
+        "y2": 1718
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row4:item_description"
+    },
+    {
+      "rect": {
+        "x1": 209,
+        "y1": 1746,
+        "x2": 491,
+        "y2": 1797
+      },
+      "value": "",
+      "label": "items_row5:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 503,
+        "y1": 1753,
+        "x2": 696,
+        "y2": 1793
+      },
+      "value": "",
+      "label": "items_row5:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 710,
+        "y1": 1757,
+        "x2": 908,
+        "y2": 1797
+      },
+      "value": "",
+      "label": "items_row5:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 917,
+        "y1": 1753,
+        "x2": 1411,
+        "y2": 1897
+      },
+      "value": "",
+      "label": "items_row5:item_description"
+    },
+    {
+      "rect": {
+        "x1": 215,
+        "y1": 1923,
+        "x2": 498,
+        "y2": 1980
+      },
+      "value": "3127610100030",
+      "label": "items_row6:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 503,
+        "y1": 1932,
+        "x2": 700,
+        "y2": 1980
+      },
+      "value": "CHAR-2XL",
+      "label": "items_row6:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 710,
+        "y1": 1928,
+        "x2": 912,
+        "y2": 1980
+      },
+      "value": "6103430000",
+      "label": "items_row6:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 918,
+        "y1": 1923,
+        "x2": 1411,
+        "y2": 2069
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row6:item_description"
+    },
+    {
+      "rect": {
+        "x1": 217,
+        "y1": 2090,
+        "x2": 471,
+        "y2": 2159
+      },
+      "value": "31276101004850",
+      "label": "items_row7:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 503,
+        "y1": 2102,
+        "x2": 700,
+        "y2": 2157
+      },
+      "value": "CHAR-3XL",
+      "label": "items_row7:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 710,
+        "y1": 2105,
+        "x2": 912,
+        "y2": 2157
+      },
+      "value": "6103430000",
+      "label": "items_row7:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 917,
+        "y1": 2100,
+        "x2": 1411,
+        "y2": 2257
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row7:item_description"
+    },
+    {
+      "rect": {
+        "x1": 1426,
+        "y1": 1044,
+        "x2": 1603,
+        "y2": 1090
+      },
+      "value": "146",
+      "label": "items_row1:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1419,
+        "y1": 1212,
+        "x2": 1598,
+        "y2": 1277
+      },
+      "value": "292",
+      "label": "items_row2:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1427,
+        "y1": 1391,
+        "x2": 1598,
+        "y2": 1448
+      },
+      "value": "657",
+      "label": "items_row3:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1421,
+        "y1": 1571,
+        "x2": 1598,
+        "y2": 1636
+      },
+      "value": "214",
+      "label": "items_row4:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1426,
+        "y1": 1753,
+        "x2": 1598,
+        "y2": 1813
+      },
+      "value": "",
+      "label": "items_row5:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1414,
+        "y1": 1923,
+        "x2": 1603,
+        "y2": 1982
+      },
+      "value": "142",
+      "label": "items_row6:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1419,
+        "y1": 2102,
+        "x2": 1606,
+        "y2": 2161
+      },
+      "value": "71",
+      "label": "items_row7:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1619,
+        "y1": 1040,
+        "x2": 1798,
+        "y2": 1094
+      },
+      "value": "4.90",
+      "label": "items_row1:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1219,
+        "x2": 1795,
+        "y2": 1276
+      },
+      "value": "4.90",
+      "label": "items_row2:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1391,
+        "x2": 1791,
+        "y2": 1461
+      },
+      "value": "4.90",
+      "label": "items_row3:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1613,
+        "y1": 1575,
+        "x2": 1795,
+        "y2": 1621
+      },
+      "value": "4.90",
+      "label": "items_row4:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1751,
+        "x2": 1798,
+        "y2": 1805
+      },
+      "value": "",
+      "label": "items_row5:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1614,
+        "y1": 1928,
+        "x2": 1795,
+        "y2": 1982
+      },
+      "value": "4.90",
+      "label": "items_row6:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1619,
+        "y1": 2102,
+        "x2": 1795,
+        "y2": 2157
+      },
+      "value": "4.90",
+      "label": "items_row7:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 917,
+        "y1": 2376,
+        "x2": 1406,
+        "y2": 2474
+      },
+      "value": "PO712057678 PRIMARK G11428306",
+      "label": "summary:po_info"
+    },
+    {
+      "rect": {
+        "x1": 519,
+        "y1": 2540,
+        "x2": 663,
+        "y2": 2591
+      },
+      "value": "71",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 543,
+        "y1": 2591,
+        "x2": 663,
+        "y2": 2648
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1655,
+        "y1": 2535,
+        "x2": 1760,
+        "y2": 2576
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1758,
+        "y1": 2535,
+        "x2": 1848,
+        "y2": 2576
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1655,
+        "y1": 2591,
+        "x2": 1715,
+        "y2": 2633
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1655,
+        "y1": 2645,
+        "x2": 1791,
+        "y2": 2687
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1791,
+        "y1": 2645,
+        "x2": 1863,
+        "y2": 2687
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1978,
+        "y1": 2530,
+        "x2": 2014,
+        "y2": 2583
+      },
+      "value": "4.90",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1978,
+        "y1": 2590,
+        "x2": 2014,
+        "y2": 2641
+      },
+      "value": "LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1978,
+        "y1": 2641,
+        "x2": 2014,
+        "y2": 2692
+      },
+      "value": "LOUNGE",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2109,
+        "y1": 2530,
+        "x2": 2312,
+        "y2": 2576
+      },
+      "value": "10564.00",
+      "label": "summary:total_net_worth"
+    },
+    {
+      "rect": {
+        "x1": 2202,
+        "y1": 658,
+        "x2": 2314,
+        "y2": 691
+      },
+      "value": "BDT",
+      "label": "header:currency"
+    },
+    {
+      "rect": {
+        "x1": 2160,
+        "y1": 2645,
+        "x2": 2314,
+        "y2": 2683
+      },
+      "value": "10584.00",
+      "label": "summary:total_gross_worth"
+    },
+    {
+      "rect": {
+        "x1": 491,
+        "y1": 2720,
+        "x2": 2109,
+        "y2": 2999
+      },
+      "value": "Registered Office: BRAVADO INTERNATIONAL GROUP LIMITED, 4 Pancras Square, London, N1C 4AG VAT Reg. No.: GB 125 4746 15",
+      "label": "summary:company_info"
+    },
+    {
+      "rect": {
+        "x1": 2109,
+        "y1": 2578,
+        "x2": 2314,
+        "y2": 2633
+      },
+      "value": "0",
+      "label": "summary:total_vat"
+    }
+  ]
+}

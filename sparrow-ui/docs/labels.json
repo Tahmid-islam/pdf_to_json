@@ -1,0 +1,269 @@
+{
+  "labels": [
+    {
+      "id": 53,
+      "name": "company_info",
+      "description": ""
+    },
+    {
+      "id": 52,
+      "name": "po_info",
+      "description": ""
+    },
+    {
+      "id": 51,
+      "name": "item_bar_code",
+      "description": ""
+    },
+    {
+      "id": 50,
+      "name": "item_unit_cost",
+      "description": ""
+    },
+    {
+      "id": 49,
+      "name": "item_qty",
+      "description": ""
+    },
+    {
+      "id": 48,
+      "name": "item_description",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "name": "item_comdty",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "name": "item_variant_code",
+      "description": ""
+    },
+    {
+      "id": 45,
+      "name": "item_product_code",
+      "description": "Product Code"
+    },
+    {
+      "id": 44,
+      "name": "vat_reg",
+      "description": "Company vat registration Number"
+    },
+    {
+      "id": 43,
+      "name": "reg_office",
+      "description": "Registered Office Name & Address"
+    },
+    {
+      "id": 42,
+      "name": "company_reg",
+      "description": "Company Registration Info"
+    },
+    {
+      "id": 41,
+      "name": "amount_due",
+      "description": "Amount Due"
+    },
+    {
+      "id": 40,
+      "name": "tax",
+      "description": "Tax"
+    },
+    {
+      "id": 39,
+      "name": "goods_value",
+      "description": "Goods Value"
+    },
+    {
+      "id": 38,
+      "name": "buyer_sign",
+      "description": "Buyer Sign"
+    },
+    {
+      "id": 37,
+      "name": "amount",
+      "description": "Amount"
+    },
+    {
+      "id": 36,
+      "name": "bar_code",
+      "description": "Bar Code"
+    },
+    {
+      "id": 35,
+      "name": "unit_cost",
+      "description": "Unit Cost"
+    },
+    {
+      "id": 34,
+      "name": "product_quant",
+      "description": "Product Quantity"
+    },
+    {
+      "id": 33,
+      "name": "product_desc",
+      "description": "Product Description"
+    },
+    {
+      "id": 32,
+      "name": "comdty",
+      "description": "Comdty"
+    },
+    {
+      "id": 31,
+      "name": "variant_code",
+      "description": "Variant Code"
+    },
+    {
+      "id": 30,
+      "name": "product_code",
+      "description": "Product Code"
+    },
+    {
+      "id": 29,
+      "name": "currency",
+      "description": "Currency"
+    },
+    {
+      "id": 28,
+      "name": "buyer",
+      "description": "Buyer Name"
+    },
+    {
+      "id": 27,
+      "name": "vendor_number",
+      "description": "Vendor Number"
+    },
+    {
+      "id": 26,
+      "name": "order_date",
+      "description": "Order Date"
+    },
+    {
+      "id": 25,
+      "name": "po_number",
+      "description": "Product Order Number"
+    },
+    {
+      "id": 24,
+      "name": "receiver_address",
+      "description": "Receiver Address"
+    },
+    {
+      "id": 23,
+      "name": "receiver_name",
+      "description": "Receiver Name"
+    },
+    {
+      "id": 22,
+      "name": "supplier_address",
+      "description": "Supplier Address"
+    },
+    {
+      "id": 21,
+      "name": "supplier_name",
+      "description": "Supplier Name"
+    },
+    {
+      "id": 20,
+      "name": "page_number",
+      "description": "Page Number"
+    },
+    {
+      "id": 19,
+      "name": "company_address",
+      "description": "Company Address"
+    },
+    {
+      "id": 18,
+      "name": "company_name",
+      "description": "Company Name"
+    },
+    {
+      "id": 17,
+      "name": "logo",
+      "description": "Company Logo"
+    },
+    {
+      "id": 1,
+      "name": "invoice_no",
+      "description": "Invoice Number"
+    },
+    {
+      "id": 2,
+      "name": "invoice_date",
+      "description": "Invoice Date"
+    },
+    {
+      "id": 3,
+      "name": "seller",
+      "description": "Seller"
+    },
+    {
+      "id": 4,
+      "name": "client",
+      "description": "Client"
+    },
+    {
+      "id": 5,
+      "name": "seller_tax_id",
+      "description": "Seller Tax ID"
+    },
+    {
+      "id": 6,
+      "name": "client_tax_id",
+      "description": "Client Tax ID"
+    },
+    {
+      "id": 7,
+      "name": "iban",
+      "description": "IBAN"
+    },
+    {
+      "id": 8,
+      "name": "item_desc",
+      "description": "Item Description"
+    },
+    {
+      "id": 9,
+      "name": "item_qty",
+      "description": "Item Quantity"
+    },
+    {
+      "id": 10,
+      "name": "item_net_price",
+      "description": "Item Net Price"
+    },
+    {
+      "id": 11,
+      "name": "item_net_worth",
+      "description": "Item Net Worth"
+    },
+    {
+      "id": 12,
+      "name": "item_vat",
+      "description": "Item VAT"
+    },
+    {
+      "id": 13,
+      "name": "item_gross_worth",
+      "description": "Item Gross Worth"
+    },
+    {
+      "id": 14,
+      "name": "total_net_worth",
+      "description": "Total Net Worth"
+    },
+    {
+      "id": 15,
+      "name": "total_vat",
+      "description": "Total VAT"
+    },
+    {
+      "id": 16,
+      "name": "total_gross_worth",
+      "description": "Total Gross Worth"
+    }
+  ]
+}

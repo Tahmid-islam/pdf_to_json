@@ -1,0 +1,1003 @@
+{
+  "meta": {
+    "version": "v1.0",
+    "split": "-",
+    "image_id": 0,
+    "image_size": {
+      "width": 2481,
+      "height": 3508
+    }
+  },
+  "words": [
+    {
+      "rect": {
+        "x1": 213,
+        "y1": 151,
+        "x2": 652,
+        "y2": 228
+      },
+      "value": "BRAVADO",
+      "label": "header:logo"
+    },
+    {
+      "rect": {
+        "x1": 717,
+        "y1": 132,
+        "x2": 1431,
+        "y2": 173
+      },
+      "value": "BRAVADO INTERNATIONAL GROUP LIMITED",
+      "label": "header:company_name"
+    },
+    {
+      "rect": {
+        "x1": 710,
+        "y1": 180,
+        "x2": 1199,
+        "y2": 369
+      },
+      "value": "99 Pancras Square London, N1C 4AG Tel: +44 (0) 203 932 3213216 Fax: Email: APInvoices@bravado.com",
+      "label": "header:company_address"
+    },
+    {
+      "rect": {
+        "x1": 1817,
+        "y1": 209,
+        "x2": 1982,
+        "y2": 261
+      },
+      "value": "Order",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1812,
+        "y1": 288,
+        "x2": 1899,
+        "y2": 338
+      },
+      "value": "Page",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1894,
+        "y1": 288,
+        "x2": 1920,
+        "y2": 333
+      },
+      "value": "8",
+      "label": "header:page_number"
+    },
+    {
+      "rect": {
+        "x1": 259,
+        "y1": 463,
+        "x2": 410,
+        "y2": 504
+      },
+      "value": "Supplier:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 259,
+        "y1": 518,
+        "x2": 839,
+        "y2": 791
+      },
+      "value": "ECHO SOURCING 110-112 WAY DEN ,AN Dhakaaa Bangladesh",
+      "label": "header:supplier_address"
+    },
+    {
+      "rect": {
+        "x1": 230,
+        "y1": 976,
+        "x2": 362,
+        "y2": 1014
+      },
+      "value": "Product",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 362,
+        "y1": 971,
+        "x2": 451,
+        "y2": 1014
+      },
+      "value": "Code",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 944,
+        "y1": 463,
+        "x2": 1069,
+        "y2": 504
+      },
+      "value": "Deliver",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1064,
+        "y1": 463,
+        "x2": 1129,
+        "y2": 504
+      },
+      "value": "To:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 942,
+        "y1": 520,
+        "x2": 1529,
+        "y2": 786
+      },
+      "value": "GHGHJFHGFHGFHJHB (FOB - ROW) TEJNHJJKNKJB DJHGBHJHJBHBH DUBLIN 1 Ireland",
+      "label": "header:receiver_address"
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 460,
+        "x2": 1750,
+        "y2": 501
+      },
+      "value": "P.Order",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1750,
+        "y1": 460,
+        "x2": 1810,
+        "y2": 501
+      },
+      "value": "No.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1623,
+        "y1": 511,
+        "x2": 1709,
+        "y2": 551
+      },
+      "value": "Date",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1623,
+        "y1": 556,
+        "x2": 1747,
+        "y2": 599
+      },
+      "value": "Vendor",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1745,
+        "y1": 556,
+        "x2": 1807,
+        "y2": 599
+      },
+      "value": "No.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1630,
+        "y1": 614,
+        "x2": 1724,
+        "y2": 657
+      },
+      "value": "Buyer",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1623,
+        "y1": 662,
+        "x2": 1769,
+        "y2": 703
+      },
+      "value": "Currency",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2100,
+        "y1": 448,
+        "x2": 2318,
+        "y2": 501
+      },
+      "value": "PO713232432",
+      "label": "header:po_number"
+    },
+    {
+      "rect": {
+        "x1": 2059,
+        "y1": 511,
+        "x2": 2316,
+        "y2": 554
+      },
+      "value": "March 1, 2023",
+      "label": "header:order_date"
+    },
+    {
+      "rect": {
+        "x1": 2181,
+        "y1": 556,
+        "x2": 2316,
+        "y2": 599
+      },
+      "value": "ECHO01",
+      "label": "header:vendor_number"
+    },
+    {
+      "rect": {
+        "x1": 2143,
+        "y1": 609,
+        "x2": 2316,
+        "y2": 650
+      },
+      "value": "JONY ISLAM",
+      "label": "header:buyer"
+    },
+    {
+      "rect": {
+        "x1": 523,
+        "y1": 952,
+        "x2": 645,
+        "y2": 995
+      },
+      "value": "Variant",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 520,
+        "y1": 990,
+        "x2": 616,
+        "y2": 1041
+      },
+      "value": "Code",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 726,
+        "y1": 976,
+        "x2": 863,
+        "y2": 1017
+      },
+      "value": "Comdty.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 930,
+        "y1": 976,
+        "x2": 1117,
+        "y2": 1017
+      },
+      "value": "Description",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1450,
+        "y1": 976,
+        "x2": 1594,
+        "y2": 1017
+      },
+      "value": "Quantity",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1630,
+        "y1": 971,
+        "x2": 1709,
+        "y2": 1014
+      },
+      "value": "Unit",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1704,
+        "y1": 971,
+        "x2": 1786,
+        "y2": 1014
+      },
+      "value": "Cost",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1841,
+        "y1": 971,
+        "x2": 1908,
+        "y2": 1014
+      },
+      "value": "Bar",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1906,
+        "y1": 971,
+        "x2": 1994,
+        "y2": 1014
+      },
+      "value": "Code",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2107,
+        "y1": 1043,
+        "x2": 2316,
+        "y2": 1098
+      },
+      "value": "213.20",
+      "label": "items_row1:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2177,
+        "y1": 976,
+        "x2": 2308,
+        "y2": 1014
+      },
+      "value": "Amo",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2102,
+        "y1": 1220,
+        "x2": 2311,
+        "y2": 1271
+      },
+      "value": "1222.20",
+      "label": "items_row2:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 2107,
+        "y1": 1393,
+        "x2": 2311,
+        "y2": 1443
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2112,
+        "y1": 1575,
+        "x2": 2316,
+        "y2": 1621
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2112,
+        "y1": 1750,
+        "x2": 2318,
+        "y2": 1798
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2107,
+        "y1": 1921,
+        "x2": 2316,
+        "y2": 1973
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2107,
+        "y1": 2093,
+        "x2": 2311,
+        "y2": 2151
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 216,
+        "y1": 1048,
+        "x2": 494,
+        "y2": 1086
+      },
+      "value": "3127610100030",
+      "label": "items_row1:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 513,
+        "y1": 1048,
+        "x2": 705,
+        "y2": 1086
+      },
+      "value": "CHAR-XS",
+      "label": "items_row1:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 714,
+        "y1": 1048,
+        "x2": 909,
+        "y2": 1086
+      },
+      "value": "6103430000",
+      "label": "items_row1:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 918,
+        "y1": 1048,
+        "x2": 1405,
+        "y2": 1175
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row1:item_description"
+    },
+    {
+      "rect": {
+        "x1": 213,
+        "y1": 1211,
+        "x2": 482,
+        "y2": 1268
+      },
+      "value": "3127610100030",
+      "label": "items_row2:item_product_code"
+    },
+    {
+      "rect": {
+        "x1": 511,
+        "y1": 1223,
+        "x2": 705,
+        "y2": 1266
+      },
+      "value": "CHAR-S",
+      "label": "items_row2:item_variant_code"
+    },
+    {
+      "rect": {
+        "x1": 712,
+        "y1": 1220,
+        "x2": 911,
+        "y2": 1268
+      },
+      "value": "6103430000",
+      "label": "items_row2:item_comdty"
+    },
+    {
+      "rect": {
+        "x1": 920,
+        "y1": 1223,
+        "x2": 1412,
+        "y2": 1357
+      },
+      "value": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "label": "items_row2:item_description"
+    },
+    {
+      "rect": {
+        "x1": 213,
+        "y1": 1391,
+        "x2": 479,
+        "y2": 1441
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 508,
+        "y1": 1398,
+        "x2": 702,
+        "y2": 1443
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 714,
+        "y1": 1403,
+        "x2": 909,
+        "y2": 1439
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 918,
+        "y1": 1391,
+        "x2": 1409,
+        "y2": 1523
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 213,
+        "y1": 1568,
+        "x2": 494,
+        "y2": 1621
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 511,
+        "y1": 1578,
+        "x2": 707,
+        "y2": 1621
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 712,
+        "y1": 1575,
+        "x2": 911,
+        "y2": 1623
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 920,
+        "y1": 1571,
+        "x2": 1409,
+        "y2": 1717
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 211,
+        "y1": 1746,
+        "x2": 491,
+        "y2": 1796
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 503,
+        "y1": 1753,
+        "x2": 695,
+        "y2": 1794
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 712,
+        "y1": 1758,
+        "x2": 909,
+        "y2": 1796
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 916,
+        "y1": 1753,
+        "x2": 1409,
+        "y2": 1897
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 216,
+        "y1": 1925,
+        "x2": 496,
+        "y2": 1978
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 501,
+        "y1": 1933,
+        "x2": 700,
+        "y2": 1978
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 712,
+        "y1": 1928,
+        "x2": 911,
+        "y2": 1978
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 920,
+        "y1": 1925,
+        "x2": 1412,
+        "y2": 2069
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 218,
+        "y1": 2091,
+        "x2": 472,
+        "y2": 2158
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 501,
+        "y1": 2103,
+        "x2": 702,
+        "y2": 2156
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 712,
+        "y1": 2105,
+        "x2": 911,
+        "y2": 2156
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 916,
+        "y1": 2100,
+        "x2": 1412,
+        "y2": 2259
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1424,
+        "y1": 1043,
+        "x2": 1601,
+        "y2": 1089
+      },
+      "value": "1211",
+      "label": "items_row1:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1419,
+        "y1": 1213,
+        "x2": 1599,
+        "y2": 1278
+      },
+      "value": "782",
+      "label": "items_row2:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1426,
+        "y1": 1393,
+        "x2": 1599,
+        "y2": 1448
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1421,
+        "y1": 1571,
+        "x2": 1599,
+        "y2": 1633
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1424,
+        "y1": 1753,
+        "x2": 1599,
+        "y2": 1810
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1414,
+        "y1": 1925,
+        "x2": 1599,
+        "y2": 1983
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1419,
+        "y1": 2103,
+        "x2": 1606,
+        "y2": 2160
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1041,
+        "x2": 1798,
+        "y2": 1091
+      },
+      "value": "2.90",
+      "label": "items_row1:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1218,
+        "x2": 1793,
+        "y2": 1276
+      },
+      "value": "8.90",
+      "label": "items_row2:item_unit_cost"
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1391,
+        "x2": 1791,
+        "y2": 1460
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1611,
+        "y1": 1573,
+        "x2": 1793,
+        "y2": 1621
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 1750,
+        "x2": 1795,
+        "y2": 1803
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1613,
+        "y1": 1928,
+        "x2": 1793,
+        "y2": 1983
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1618,
+        "y1": 2103,
+        "x2": 1793,
+        "y2": 2156
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 916,
+        "y1": 2376,
+        "x2": 1407,
+        "y2": 2477
+      },
+      "value": "PO712057678 PRIMARK G11428306",
+      "label": "summary:po_info"
+    },
+    {
+      "rect": {
+        "x1": 520,
+        "y1": 2542,
+        "x2": 662,
+        "y2": 2592
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 539,
+        "y1": 2592,
+        "x2": 664,
+        "y2": 2647
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1654,
+        "y1": 2534,
+        "x2": 1759,
+        "y2": 2575
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1757,
+        "y1": 2534,
+        "x2": 1848,
+        "y2": 2575
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1654,
+        "y1": 2592,
+        "x2": 1714,
+        "y2": 2635
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1654,
+        "y1": 2645,
+        "x2": 1791,
+        "y2": 2686
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1791,
+        "y1": 2645,
+        "x2": 1865,
+        "y2": 2686
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1978,
+        "y1": 2530,
+        "x2": 2011,
+        "y2": 2582
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1978,
+        "y1": 2587,
+        "x2": 2011,
+        "y2": 2640
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1978,
+        "y1": 2640,
+        "x2": 2011,
+        "y2": 2690
+      },
+      "value": "",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2107,
+        "y1": 2530,
+        "x2": 2311,
+        "y2": 2575
+      },
+      "value": "10584.00",
+      "label": "summary:total_net_worth"
+    },
+    {
+      "rect": {
+        "x1": 2203,
+        "y1": 657,
+        "x2": 2316,
+        "y2": 693
+      },
+      "value": "EURO",
+      "label": "header:currency"
+    },
+    {
+      "rect": {
+        "x1": 2162,
+        "y1": 2645,
+        "x2": 2316,
+        "y2": 2683
+      },
+      "value": "10584.00",
+      "label": "summary:total_gross_worth"
+    },
+    {
+      "rect": {
+        "x1": 491,
+        "y1": 2719,
+        "x2": 2107,
+        "y2": 2997
+      },
+      "value": "A Universal Company - Registered in England No.: 02754921 Registered Office: BRAVADO INTERNATIONAL GROUP LIMITED, 4 Pancras Square, London, N1C 4AG VAT Reg. No.: GB 125 4746 15 Vendor No. P.Order No. Ireland PATRICIA TALLANT Great Britain LONDON , NW1 7AN CAMDEN 110-112 PARKWAY ECHO SOURCING ECHO01 Currency USD PO712057678 Buyer LAXMI JHA PRIMARK LIMITED [GERMANY] TBRA22 (FOB - ROW) Tel: +44 (0) 203 932 6476 Fax: London, N1C 4AG 4 Pancras Square BRAVADO INTERNATIONAL GROUP LIMITED Order February 3, 2023 Page 1 47 MARY STREET DUBLIN 1 Email: APInvoices@bravado.com Date Supplier: Deliver To:",
+      "label": "summary:company_info"
+    },
+    {
+      "rect": {
+        "x1": 2107,
+        "y1": 2578,
+        "x2": 2316,
+        "y2": 2635
+      },
+      "value": "0",
+      "label": "summary:total_vat"
+    }
+  ]
+}

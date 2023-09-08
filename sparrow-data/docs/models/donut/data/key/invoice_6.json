@@ -1,0 +1,87 @@
+{
+  "header": {
+    "logo": "BRAVADO",
+    "company_name": "BRAVADO INTERNATIONAL GROUP LIMITED",
+    "company_address": "4 Pancras Square Lon, N1C 4AG Tel: +44 (0) 203 932 6476 Fax: Email: textsts@bravado.com",
+    "page_number": "9",
+    "supplier_address": "ECHO SOURCING 230-112 ASSKWAY CDEN , NW1 7AN LONDON Dhaka",
+    "receiver_address": "TEN LIMITED [England] TBRA22 (FOR - RW) PATRICIA TALLANT 47 MARY STREET DN 12233324 Ireland",
+    "po_number": "PO554454454",
+    "order_date": "November 3, 2021",
+    "vendor_number": "ECHO91",
+    "buyer": "Tahmid Khan",
+    "currency": "BDT"
+  },
+  "items": [
+    {
+      "item_net_price": "1715.40",
+      "item_product_code": "3127610100030",
+      "item_variant_code": "CHAR-S",
+      "item_comdty": "6103430000",
+      "item_description": "STONEdsfsdfS ddsfLOUNGE SPIKE UE SHORTS dsfgsdfPRIMARK/74064",
+      "item_qty": "4146",
+      "item_unit_cost": "8.90"
+    },
+    {
+      "item_net_price": "1,333.80",
+      "item_product_code": "367627610133030",
+      "item_variant_code": "CHAR-S",
+      "item_comdty": "4403430000",
+      "item_description": "ROLLING STONES/DOO dsgsgsggs dsgggPRIMARK/74064",
+      "item_qty": "4292",
+      "item_unit_cost": "14.90"
+    },
+    {
+      "item_net_price": "12,339.30",
+      "item_product_code": "3336101220030",
+      "item_variant_code": "CHAR-M",
+      "item_comdty": "6103430000",
+      "item_description": "ROLLING STONES/OO sdgffdgfgfdg dsfgdsfgsdgdg",
+      "item_qty": "6547",
+      "item_unit_cost": "4.90"
+    },
+    {
+      "item_net_price": "2,435.30",
+      "item_product_code": "443127610100030",
+      "item_variant_code": "CHAR-XL",
+      "item_comdty": "3610430000",
+      "item_description": "ROLLING STONES/VOODOO New Data232432432 432432432432",
+      "item_qty": "4447",
+      "item_unit_cost": "4.90"
+    },
+    {
+      "item_net_price": "1,739.50",
+      "item_product_code": "443127610100030",
+      "item_variant_code": "CHAR-L",
+      "item_comdty": "6103430000",
+      "item_description": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "item_qty": "4355",
+      "item_unit_cost": "4.90"
+    },
+    {
+      "item_net_price": "95.80",
+      "item_product_code": "313447220100030",
+      "item_variant_code": "CHAR-XS",
+      "item_comdty": "6103433000",
+      "item_description": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS  cdscfsdsdK/74",
+      "item_qty": "4412",
+      "item_unit_cost": "35.90"
+    },
+    {
+      "item_net_price": "37.90",
+      "item_product_code": "333127610100030",
+      "item_variant_code": "CHAR-4XL",
+      "item_comdty": "3303430000",
+      "item_description": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK4",
+      "item_qty": "871",
+      "item_unit_cost": "4.90"
+    }
+  ],
+  "summary": {
+    "po_info": "PO71565478 NETSNBB ASDD428306",
+    "total_net_worth": "34534.50",
+    "total_gross_worth": "11584.80",
+    "company_info": "A Universal Company - Registered in England No.: 02754921 Registered Office: BRAVADO INTERNATIONAL GROUP LIMITED, 4 Pancras Square, London, N1C 4AG  VAT Reg. No.: GB 125 4746 15",
+    "total_vat": "1111.389"
+  }
+}

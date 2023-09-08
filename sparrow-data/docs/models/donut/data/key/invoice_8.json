@@ -1,0 +1,42 @@
+{
+  "header": {
+    "logo": "BRAVADO",
+    "company_name": "BRAVADO INTERNATIONAL GROUP LIMITED",
+    "company_address": "4 Pancras Square London, N22C AG Tel: +88 (0) 123 99922 6333476 Fax: Email: nesices@echpo.com",
+    "page_number": "8",
+    "supplier_address": "ECHO SOURCING 2110-112 NOWAY CANADA , N111 72344N LOON Bangladesh",
+    "receiver_address": "PRK MITED [GERMANY] TBRA22 (FOB - ROW)",
+    "po_number": "PO712057678",
+    "order_date": "February 3, 2023",
+    "vendor_number": "ECHO01",
+    "buyer": "LAXMI JHA",
+    "currency": "USD"
+  },
+  "items": [
+    {
+      "item_net_price": "8915.60",
+      "item_product_code": "9127610100030",
+      "item_variant_code": "CHAR-L",
+      "item_comdty": "6103220000",
+      "item_description": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "item_qty": "146",
+      "item_unit_cost": "3.15"
+    },
+    {
+      "item_net_price": "1,530.10",
+      "item_product_code": "71333610100030",
+      "item_variant_code": "CHAR-S",
+      "item_comdty": "6103430000",
+      "item_description": "ROLLING STONES/VOODOO LOUNGE SPIKE TONGUE SHORTS PRIMARK/74064",
+      "item_qty": "666",
+      "item_unit_cost": "9.10"
+    }
+  ],
+  "summary": {
+    "po_info": "G1142844456",
+    "total_net_worth": "44584.00",
+    "total_gross_worth": "45584.00",
+    "company_info": "A Universal Company - Registered in England No.: 02232921 Registered Office: BRAVADO INTERNATIONAL GROUP LIMITED, 4 Pancras Square, London, N1C 4AG  VAT Reg. No.: GB 123123213 4746 15",
+    "total_vat": "0"
+  }
+}
